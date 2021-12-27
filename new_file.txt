@@ -1,8 +1,6 @@
 Eman Mohamad
 Android 
 This Line 1
-<<<<<<< HEAD
 eman push
-=======
 enas push
->>>>>>> 34652140b282f450373e56151a76e9136d39b808
+
